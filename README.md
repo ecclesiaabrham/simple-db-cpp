@@ -1,5 +1,5 @@
 # simple-db-cpp
-A simple SQLite-bases database project using c++
+A simple SQLite-basis database project using c++
 ## Features
 -Insert data into database
 -Read data from database
