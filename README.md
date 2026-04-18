@@ -3,7 +3,7 @@ A simple SQLite-bases database project using c++
 ## Features
 -Insert data into database
 -Read data from database
--Basic sql operations
+-Basic SQL operations
 
 ## Requirements 
 -C++ compiler(g++)
